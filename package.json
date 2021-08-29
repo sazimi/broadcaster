@@ -1,0 +1,26 @@
+{
+  "name": "broadcaster",
+  "version": "1.0.0",
+  "description": "A simple web socket server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sazimi/broadcaster.git"
+  },
+  "keywords": [
+    "web",
+    "socket"
+  ],
+  "author": "Sherry List",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sazimi/broadcaster/issues"
+  },
+  "homepage": "https://github.com/sazimi/broadcaster#readme",
+  "dependencies": {
+    "ws": "^8.2.1"
+  }
+}
